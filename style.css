@@ -1,0 +1,31 @@
+h1{
+    color: blue;
+    text-transform: capitalize;
+    text-decoration: underline;
+    background-color: brown;
+    width: 300px;
+    height: 100px;
+    /* width: 100%;
+    height: auto; */
+
+    
+
+}
+
+.naslov {
+    color: rgb(4, 255, 171);
+    text-decoration: antiquewhite;
+    text-align: center;
+
+
+
+}
+#id{
+
+    color: blueviolet;
+    font-size: larger;
+    font-weight: 700;
+    
+    
+
+}

@@ -1,0 +1,35 @@
+div{
+    background-color:rgb(16, 133, 103);
+    width: 300px;
+    height: 600px;
+    margin: 100px auto;
+    border-radius: 30px;
+    
+}
+img{
+    width: 300px;
+    height: 200px;
+    border-top-left-radius:30px;
+    border-top-right-radius: 30px;
+}
+h1{
+    font-size: 50px;
+    font-style: italic;
+    padding: 17px;
+    color: rgb(182, 81, 13);
+}
+p{
+    font-size: 30px;
+    font-style: oblique;
+    padding: 13px;
+    color: rgb(19, 16, 13);
+}
+div:hover{
+    background-color: rgb(194, 194, 206);
+}
+
+
+
+
+
+

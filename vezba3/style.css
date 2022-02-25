@@ -1,0 +1,13 @@
+/* Napraviti tri heda preko razlicitih klasa, prvi da bude text bijele boje a pozadina plave,drugi crvene a pozadina zute i treci bijele a pozadina roze */
+.samo{
+    color: white;
+    background-color: blue;
+}
+.jos{
+    color: red;
+    background-color: yellow;
+}
+.to{
+    color: white;
+    background-color: pink;
+}
